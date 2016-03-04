@@ -1,0 +1,28 @@
+name: Rzescotti Photography
+favicon: null
+layout_spectrum: 0.4329087994992733
+typography_spectrum: 0.5889262177515775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3272945990320295
+  lightness: 0.6570237106643617
+  saturation: 0.6887027167249471
+  rhythmicContrast: 0.6189566229004413
+purpose: []
